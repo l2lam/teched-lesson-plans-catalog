@@ -13,7 +13,7 @@ Educators who teach technical education, or students who are self learners.
 ## Computer Science
 
 1. [Object Oriented Programming with Animals](https://github.com/l2lam/oop-with-animals) - Using animal classes as the context, the lesson is a progression of exercises that demonstrate fundamental aspects of OOP
-2. Git and GitHub (Coming Soon)
+2. [Git Fundamentals](https://github.com/l2lam/git-fundamentals) - Why Version Control Systems (VCS) like Git exists, and how to use Git.
 
 ## Computer Technology (Engineering)
 
